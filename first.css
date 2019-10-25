@@ -12,8 +12,6 @@ body {
   padding: 0 20px;
   background-color: #fadadd;
   font-family: 'Comfortaa', cursive;
-  justify-content: center;
-    align-items: center;
 }
 
 footer {
@@ -83,6 +81,7 @@ footer {
     position: relative;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .container .card{
